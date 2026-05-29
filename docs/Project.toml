@@ -1,0 +1,5 @@
+# docs/Project.toml
+
+[deps]
+Documenter = "e3017c58-4d9d-5241-bb9b-f11c34a2e77c"
+NonparametricCognitiveDiagnosisModel = "506f3bee-758e-40a7-86de-9c6e62f9cb49"
